@@ -17,3 +17,7 @@ The purpose of this exercise is to practice the steps you'll need to use in futu
 7. Push changes up to GitHub
 
 ---
+
+1. Milk
+2. Honey Bunches of Oats
+3. Banana
